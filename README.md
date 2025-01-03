@@ -18,7 +18,11 @@ This project implements advanced **image quilting techniques** to generate large
 - **C++** 
 - **CMake** For build automation.
 - **Image Processing:** Implementation of Efros and Freeman’s Image Quilting Algorithm.
-  
+
+## Documentation
+
+For detailed project documentation, please refer to the `Ausarbeitung` folder.
+
 ## Usage
 Compile the project using CMake and run the executable with specified parameters:
 
@@ -34,5 +38,6 @@ Compile the project using CMake and run the executable with specified parameters
                      --mseSelect true \
                      --minCut true \
                      --tolerance 0.1
+
 
 
