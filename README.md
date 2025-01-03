@@ -21,7 +21,7 @@ This project implements advanced **image quilting techniques** to generate large
 
 ## Documentation
 
-For detailed project documentation, please refer to the `ausarbeitung` folder.
+For detailed project documentation, please refer to the `Ausarbeitung` folder.
 
 ## Usage
 Compile the project using CMake and run the executable with specified parameters:
