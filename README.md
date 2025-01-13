@@ -1,5 +1,7 @@
 # Image Quilting
 
+This project was an exam submission for the *Tool- und Plugin-Programmierung* module, and I received a grade of **1.0**.
+
 This project implements advanced **image quilting techniques** to generate large, visually coherent textures from small input patches. The method minimizes visible seams and repetitive patterns using algorithms such as **Minimum Error Boundary Cut** and **Mean Squared Error (MSE)**-based block selection.
 
 ## Features
